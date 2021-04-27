@@ -1,4 +1,14 @@
-### Hi there 👋
+# 👋 Hi there, I am <a href="https://bhavya.dev">Bhavya Tomar!</a>
+
+![](https://komarev.com/ghpvc/?username=BhavyaCodes&style=flat-square&color=ff69b4) <a href="https://discord.gg/az7Au3ZDGW">![Discord](https://img.shields.io/discord/686069011481362462?logo=discord&style=flat-square)</a>
+<img align='right' src="
+/.github/cat.gif" width="230" alt="coding cat">
+
+## <a href="https://bhavya.dev">bhavya.dev</a> - Visit my portfolio
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavyaCodes&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+
+![Bhavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhavyaCodes&show_icons=true&theme=radical&layout=compact)
 
 <!--
 **BhavyaCodes/BhavyaCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
