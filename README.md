@@ -9,6 +9,38 @@
 
 ![Bhavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhavyaCodes&show_icons=true&theme=radical&layout=compact)
 
+---
+
+## Technologies I have used
+
+<figure display="inline-block">
+  <img
+  src="/.github/icons/typescript.svg"
+  alt="Typescript" width="80">
+  <figcaption>Typescript</figcaption>
+</figure> 
+<figure display="inline-block">
+  <img
+  src="/.github/icons/react.png"
+  alt="Typescript" width="80">
+  <figcaption>Typescript</figcaption>
+</figure>
+<img src="/.github/icons/typescript.svg" width="60"/>
+<img src="/.github/icons/react.png" width="60"/>
+<img src="/.github/icons/nodejs.svg" width="60"/>
+<img src="/.github/icons/nextjs.svg" width="60"/>
+<img src="/.github/icons/sass.svg" width="60"/>
+<img src="/.github/icons/expressjs.png" width="60"/>
+<img src="/.github/icons/bash.svg" width="60"/>
+<img src="/.github/icons/framer.png" width="60"/>
+<img src="/.github/icons/mongodb.svg" width="60"/>
+<img src="/.github/icons/materialui.svg" width="60"/>
+<img src="/.github/icons/bootstrap.svg" width="60"/>
+<img src="/.github/icons/vercel.svg" width="60"/>
+<img src="/.github/icons/socketio.svg" width="60"/>
+<img src="/.github/icons/redux.svg" width="60"/>
+<img src="/.github/icons/redux.svg" width="60"/>
+
 <!--
 **BhavyaCodes/BhavyaCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
