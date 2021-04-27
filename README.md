@@ -13,19 +13,14 @@
 
 ## Technologies I have used
 
-<figure display="inline-block">
-  <img
-  src="/.github/icons/typescript.svg"
-  alt="Typescript" width="80">
-  <figcaption>Typescript</figcaption>
-</figure> 
+<figure display="inline-block"><img src="/.github/icons/typescript.svg" alt="Typescript" width="80"><figcaption>Typescript</figcaption></figure> <figure display="inline-block"><img src="/.github/icons/typescript.svg" alt="Typescript" width="80"><figcaption>Typescript</figcaption></figure> 
 <figure display="inline-block">
   <img
   src="/.github/icons/react.png"
   alt="Typescript" width="80">
   <figcaption>Typescript</figcaption>
 </figure>
-<img src="/.github/icons/typescript.svg" width="60"/>
+<img src="/.github/icons/typescript.svg" width="60"/> <img src="/.github/icons/react.png" width="60"/>
 <img src="/.github/icons/react.png" width="60"/>
 <img src="/.github/icons/nodejs.svg" width="60"/>
 <img src="/.github/icons/nextjs.svg" width="60"/>
