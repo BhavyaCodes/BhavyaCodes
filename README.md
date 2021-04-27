@@ -13,6 +13,7 @@
 
 ## Technologies I have used
 
+<p align="left">
 <figure display="inline-block"><img src="/.github/icons/typescript.svg" alt="Typescript" width="80"><figcaption>Typescript</figcaption></figure> <figure display="inline-block"><img src="/.github/icons/typescript.svg" alt="Typescript" width="80"><figcaption>Typescript</figcaption></figure> 
 <figure display="inline-block">
   <img
@@ -20,6 +21,8 @@
   alt="Typescript" width="80">
   <figcaption>Typescript</figcaption>
 </figure>
+</p>
+<p align="left">
 <img src="/.github/icons/typescript.svg" width="60"/> <img src="/.github/icons/react.png" width="60"/>
 <img src="/.github/icons/react.png" width="60"/>
 <img src="/.github/icons/nodejs.svg" width="60"/>
@@ -35,6 +38,7 @@
 <img src="/.github/icons/socketio.svg" width="60"/>
 <img src="/.github/icons/redux.svg" width="60"/>
 <img src="/.github/icons/redux.svg" width="60"/>
+</p>
 
 <!--
 **BhavyaCodes/BhavyaCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
