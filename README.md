@@ -105,10 +105,10 @@
 ## <img src="/.github/community.gif" width="48" align="left">&nbsp;&nbsp;Connect with me
 
 <p align="left">
-<img src="/.github/icons/twitter.gif" width="48">
-<img src="/.github/icons/discord.gif" width="54">
-<img src="/.github/icons/linkedin.gif" width="48">
-<img src="/.github/icons/email.gif" width="48">
+<img src="/.github/icons/twitter.svg" width="48">&nbsp;&nbsp;&nbsp;
+<img src="/.github/icons/discord.svg" width="54">&nbsp;&nbsp;&nbsp;
+<img src="/.github/icons/linkedin.svg" width="48">&nbsp;&nbsp;&nbsp;
+<img src="/.github/icons/email.svg" width="48">&nbsp;&nbsp;&nbsp;
 </p>
 <!-- <p align="left">
 <img src="/.github/icons/typescript.svg" width="60"/>
