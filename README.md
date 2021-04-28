@@ -4,12 +4,6 @@
 
 </div>
 
-###
-
-###
-
-## <h2><a href="https://bhavya.dev">bhavya.dev</a> - Visit my portfolio</h2>
-
 <div>
 
 <!-- <img alt="GitHub followers" src="https://img.shields.io/github/followers/BhavyaCodes?label=follow&logo=github&style=flat-square"> -->
@@ -20,6 +14,10 @@
 <a href="https://discord.gg/az7Au3ZDGW">![Discord](https://img.shields.io/discord/686069011481362462?logo=discord&style=flat-square)</a>
 
 </div>
+
+## <h2><a href="https://bhavya.dev">bhavya.dev</a> - Visit my portfolio</h2>
+
+
 
 ---
 
