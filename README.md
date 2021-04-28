@@ -2,11 +2,16 @@
 
 ## <a href="https://bhavya.dev">bhavya.dev</a> - Visit my portfolio
 
-![GitHub followers](https://img.shields.io/github/followers/BhavyaCodes?label=follow&logo=github&style=flat-square)
+<div>
+
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/BhavyaCodes?label=follow&logo=github&style=flat-square">
+
 ![GitHub User's stars](https://img.shields.io/github/stars/BhavyaCodes?label=%E2%AD%90GitHub%20stars&style=flat-square)
 ![](https://komarev.com/ghpvc/?username=BhavyaCodes&style=flat-square&color=ff69b4)
 <a href="https://discord.gg/az7Au3ZDGW">![Discord](https://img.shields.io/discord/686069011481362462?logo=discord&style=flat-square)</a>
 <img align='right' src="/.github/cat.gif" width="230" alt="coding cat">
+
+</div>
 
 ---
 
@@ -88,6 +93,10 @@
 </table>
 
 ---
+
+<div>
+<img align='right' src="/.github/octocat.gif" width="230" alt="octocat">
+</div>
 
 <!-- <p align="left">
 <img src="/.github/icons/typescript.svg" width="60"/>
