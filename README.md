@@ -1,6 +1,6 @@
 <div>
 
-# 👋 Hi there, I am <a href="https://bhavya.dev">Bhavya Tomar!</a> <img align='right' src="/.github/cat.gif" height="" width="230" alt="coding cat">
+# 👋 Hi there, I am <a href="https://bhavya.dev">Bhavya Tomar!</a> <img align='right' src="/.github/cat.gif" height="" width="300" alt="coding cat">
 
 </div>
 
@@ -15,7 +15,7 @@
 
 </div>
 
-## <h2><a href="https://bhavya.dev">bhavya.dev</a> - Visit my portfolio</h2>
+### <h2><a href="https://bhavya.dev">bhavya.dev</a> - Visit my portfolio</h2>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavyaCodes&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
