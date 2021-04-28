@@ -1,6 +1,6 @@
 # 👋 Hi there, I am <a href="https://bhavya.dev">Bhavya Tomar!</a>
 
-## <a href="https://bhavya.dev">bhavya.dev</a> - Visit my portfolio
+## <a href="https://bhavya.dev">bhavya.dev</a> - Visit my portfolio <img align='right' src="/.github/cat.gif" width="230" alt="coding cat">
 
 <div>
 
@@ -10,7 +10,6 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/BhavyaCodes?label=%E2%AD%90GitHub%20stars&style=flat-square)
 ![](https://komarev.com/ghpvc/?username=BhavyaCodes&style=flat-square&color=ff69b4)
 <a href="https://discord.gg/az7Au3ZDGW">![Discord](https://img.shields.io/discord/686069011481362462?logo=discord&style=flat-square)</a>
-<img align='right' src="/.github/cat.gif" width="230" alt="coding cat">
 
 </div>
 
