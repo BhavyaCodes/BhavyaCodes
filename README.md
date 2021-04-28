@@ -96,12 +96,20 @@
 
 ---
 
-### <img src="/.github/code.gif" width="32" align="left"> &nbsp; &nbsp;See my projects - [bhavya.dev/projects](https://bhavya.dev/projects)
+## <img src="/.github/code.gif" width="32" align="left"> &nbsp; &nbsp;See my projects - [bhavya.dev/projects](https://bhavya.dev/projects)
 
 <div>
 <img align='right' src="/.github/octocat.gif" width="230" alt="octocat">
 </div>
 
+## <img src="/.github/community.gif" width="48" align="left">&nbsp;&nbsp;Connect with me
+
+<p align="left">
+<img src="/.github/icons/twitter.gif" width="48">
+<img src="/.github/icons/discord.gif" width="54">
+<img src="/.github/icons/linkedin.gif" width="48">
+<img src="/.github/icons/email.gif" width="48">
+</p>
 <!-- <p align="left">
 <img src="/.github/icons/typescript.svg" width="60"/>
 <img src="/.github/icons/react.png" width="60"/>
