@@ -1,8 +1,10 @@
 <div>
 
-# 👋 Hi there, I am <a href="https://bhavya.dev">Bhavya Tomar!</a> <img align='right' src="/.github/cat.gif" height="100" width="100%" alt="coding cat">
+# 👋 Hi there, I am <a href="https://bhavya.dev">Bhavya Tomar!</a> <img align='right' src="/.github/cat.gif" height="" width="230" alt="coding cat">
 
 </div>
+
+<br/>
 
 ## <h2><a href="https://bhavya.dev">bhavya.dev</a> - Visit my portfolio</h2>
 
