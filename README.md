@@ -13,17 +13,22 @@
 
 ## Technologies I have used
 
+<table >
+	<tr align="center">
+		<td>
+			<img src="/.github/icons/typescript.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/react.png" width="60"/>
+		</td>
+	</tr>
+	<tr align="center">
+		<td>TypeScript</td>
+		<td>React</td>
+	</tr>
+</table>
 <p align="left">
-<figure display="inline-block"><img src="/.github/icons/typescript.svg" alt="Typescript" width="80"><figcaption>Typescript</figcaption></figure> <figure display="inline-block"><img src="/.github/icons/typescript.svg" alt="Typescript" width="80"><figcaption>Typescript</figcaption></figure> 
-<figure display="inline-block">
-  <img
-  src="/.github/icons/react.png"
-  alt="Typescript" width="80">
-  <figcaption>Typescript</figcaption>
-</figure>
-</p>
-<p align="left">
-<img src="/.github/icons/typescript.svg" width="60"/> <img src="/.github/icons/react.png" width="60"/>
+<img src="/.github/icons/typescript.svg" width="60"/>
 <img src="/.github/icons/react.png" width="60"/>
 <img src="/.github/icons/nodejs.svg" width="60"/>
 <img src="/.github/icons/nextjs.svg" width="60"/>
@@ -36,7 +41,6 @@
 <img src="/.github/icons/bootstrap.svg" width="60"/>
 <img src="/.github/icons/vercel.svg" width="60"/>
 <img src="/.github/icons/socketio.svg" width="60"/>
-<img src="/.github/icons/redux.svg" width="60"/>
 <img src="/.github/icons/redux.svg" width="60"/>
 </p>
 
