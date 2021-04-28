@@ -2,10 +2,10 @@
 
 ## <a href="https://bhavya.dev">bhavya.dev</a> - Visit my portfolio
 
----
-
 ![](https://komarev.com/ghpvc/?username=BhavyaCodes&style=flat-square&color=ff69b4) <a href="https://discord.gg/az7Au3ZDGW">![Discord](https://img.shields.io/discord/686069011481362462?logo=discord&style=flat-square)</a>
 <img align='right' src="/.github/cat.gif" width="230" alt="coding cat">
+
+---
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavyaCodes&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
