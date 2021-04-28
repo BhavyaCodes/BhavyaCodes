@@ -17,10 +17,6 @@
 
 ## <h2><a href="https://bhavya.dev">bhavya.dev</a> - Visit my portfolio</h2>
 
-
-
----
-
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavyaCodes&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
 ![Bhavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhavyaCodes&show_icons=true&theme=radical&layout=compact)
