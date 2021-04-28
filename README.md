@@ -96,7 +96,7 @@
 
 ---
 
-## <img src="/.github/code.gif" width="32" align="left">&nbsp;See my projects - [bhavya.dev/projects](https://bhavya.dev/projects)
+## <img src="/.github/code.gif" width="32" align="left"> See my projects - [bhavya.dev/projects](https://bhavya.dev/projects)
 
 <div>
 <img align='right' src="/.github/octocat.gif" width="230" alt="octocat">
