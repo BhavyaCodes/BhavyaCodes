@@ -1,6 +1,6 @@
-# 👋 Hi there, I am <a href="https://bhavya.dev">Bhavya Tomar!</a>
+# 👋 Hi there, I am <a href="https://bhavya.dev">Bhavya Tomar!</a> <img align='right' src="/.github/cat.gif" width="230" alt="coding cat">
 
-## <a href="https://bhavya.dev">bhavya.dev</a> - Visit my portfolio <img align='right' src="/.github/cat.gif" width="230" alt="coding cat">
+## <a href="https://bhavya.dev">bhavya.dev</a> - Visit my portfolio
 
 <div>
 
