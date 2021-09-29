@@ -45,19 +45,15 @@
 		<td >
 			<img src="/.github/icons/bash.svg" width="60"/>
 		</td>
-		<td >
-			<img src="/.github/icons/framer.png" width="60"/>
-		</td>
-	</tr>
-	<tr align="center">
-		<td>TypeScript</td>
-		<td>React</td>
-		<td>Node.js</td>
-		<td>Next.js</td>
-		<td>Express.js</td>
-		<td>Bash</td>
-		<td>Framer Motion</td>
-	</tr>
+    </tr>
+    <tr align="center">
+    	<td>TypeScript</td>
+    	<td>React</td>
+    	<td>Node.js</td>
+    	<td>Next.js</td>
+    	<td>Express.js</td>
+    	<td>Bash</td>
+    </tr>
 </table>
 <table >
 	<tr align="center">
@@ -66,9 +62,6 @@
 		</td>
 		<td >
 			<img src="/.github/icons/bootstrap.svg" width="60"/>
-		</td>
-		<td >
-			<img src="/.github/icons/vercel.svg" width="60"/>
 		</td>
 		<td >
 			<img src="/.github/icons/socketio.svg" width="60"/>
@@ -86,11 +79,40 @@
 	<tr align="center">
 		<td>Material-UI</td>
 		<td>Bootstrap</td>
-		<td>Vercel</td>
 		<td>Socket.IO</td>
 		<td>Redux</td>
 		<td>AWS S3</td>
 		<td>MongoDB</td>
+	</tr>
+</table>
+<table >
+	<tr align="center">
+		<td>
+			<img src="/.github/icons/graphql.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/nestjs.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/postgresql.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/apollo.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/framer.png" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/vercel.svg" width="60"/>
+		</td>
+	</tr>
+	<tr align="center">
+		<td>GraphQL</td>
+		<td>Nest.js</td>
+		<td>postgreSQL</td>
+		<td>Apollo client/server</td>
+		<td>Framer Motion</td>
+		<td>Vercel</td>
 	</tr>
 </table>
 
