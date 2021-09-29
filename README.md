@@ -42,55 +42,78 @@
 		<td >
 			<img src="/.github/icons/expressjs.png" width="60"/>
 		</td>
-		<td >
-			<img src="/.github/icons/bash.svg" width="60"/>
+		<td>
+			<img src="/.github/icons/graphql.svg" width="60"/>
 		</td>
-		<td >
-			<img src="/.github/icons/framer.png" width="60"/>
-		</td>
-	</tr>
-	<tr align="center">
-		<td>TypeScript</td>
-		<td>React</td>
-		<td>Node.js</td>
-		<td>Next.js</td>
-		<td>Express.js</td>
-		<td>Bash</td>
-		<td>Framer Motion</td>
-	</tr>
+    </tr>
+    <tr align="center">
+    	<td>TypeScript</td>
+    	<td>React</td>
+    	<td>Node.js</td>
+    	<td>Next.js</td>
+    	<td>Express.js</td>
+			<td>GraphQL</td>
+    </tr>
+
 </table>
 <table >
 	<tr align="center">
+		<td >
+			<img src="/.github/icons/nestjs.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/postgresql.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/mongodb.svg" width="60"/>
+		</td>
 		<td>
 			<img src="/.github/icons/materialui.svg" width="60"/>
-		</td>
-		<td >
-			<img src="/.github/icons/bootstrap.svg" width="60"/>
-		</td>
-		<td >
-			<img src="/.github/icons/vercel.svg" width="60"/>
 		</td>
 		<td >
 			<img src="/.github/icons/socketio.svg" width="60"/>
 		</td>
 		<td >
-			<img src="/.github/icons/redux.svg" width="60"/>
-		</td>
-		<td >
 			<img src="/.github/icons/s3.svg" width="60"/>
-		</td>
-		<td >
-			<img src="/.github/icons/mongodb.svg" width="60"/>
 		</td>
 	</tr>
 	<tr align="center">
-		<td>Material-UI</td>
-		<td>Bootstrap</td>
-		<td>Vercel</td>
-		<td>Socket.IO</td>
-		<td>Redux</td>
-		<td>AWS S3</td>
+		<td>Nest.js</td>
+		<td>postgreSQL</td>
 		<td>MongoDB</td>
+		<td>Material-UI</td>
+		<td>Socket.IO</td>
+		<td>AWS S3</td>
+	</tr>
+</table>
+<table >
+	<tr align="center">
+		<td >
+			<img src="/.github/icons/apollo.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/redux.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/bootstrap.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/framer.png" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/vercel.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/bash.svg" width="60"/>
+		</td>
+	</tr>
+	<tr align="center">
+		<td>Apollo client/server</td>
+		<td>Redux</td>
+		<td>Bootstrap</td>
+		<td>Framer Motion</td>
+		<td>Vercel</td>
+		<td>Bash</td>
 	</tr>
 </table>
 
