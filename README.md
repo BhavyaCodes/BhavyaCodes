@@ -58,17 +58,17 @@
 </table>
 <table >
 	<tr align="center">
+		<td >
+			<img src="/.github/icons/nestjs.svg" width="60"/>
+		</td>
 		<td>
 			<img src="/.github/icons/materialui.svg" width="60"/>
-		</td>
-		<td >
-			<img src="/.github/icons/bootstrap.svg" width="60"/>
 		</td>
 		<td >
 			<img src="/.github/icons/socketio.svg" width="60"/>
 		</td>
 		<td >
-			<img src="/.github/icons/redux.svg" width="60"/>
+			<img src="/.github/icons/postgresql.svg" width="60"/>
 		</td>
 		<td >
 			<img src="/.github/icons/s3.svg" width="60"/>
@@ -78,10 +78,10 @@
 		</td>
 	</tr>
 	<tr align="center">
+		<td>Nest.js</td>
 		<td>Material-UI</td>
-		<td>Bootstrap</td>
 		<td>Socket.IO</td>
-		<td>Redux</td>
+		<td>postgreSQL</td>
 		<td>AWS S3</td>
 		<td>MongoDB</td>
 	</tr>
@@ -89,13 +89,13 @@
 <table >
 	<tr align="center">
 		<td >
-			<img src="/.github/icons/nestjs.svg" width="60"/>
-		</td>
-		<td >
-			<img src="/.github/icons/postgresql.svg" width="60"/>
-		</td>
-		<td >
 			<img src="/.github/icons/apollo.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/redux.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/bootstrap.svg" width="60"/>
 		</td>
 		<td >
 			<img src="/.github/icons/framer.png" width="60"/>
@@ -108,9 +108,9 @@
 		</td>
 	</tr>
 	<tr align="center">
-		<td>Nest.js</td>
-		<td>postgreSQL</td>
 		<td>Apollo client/server</td>
+		<td>Redux</td>
+		<td>Bootstrap</td>
 		<td>Framer Motion</td>
 		<td>Vercel</td>
 		<td>Bash</td>
