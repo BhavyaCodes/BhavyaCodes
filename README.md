@@ -61,6 +61,12 @@
 		<td >
 			<img src="/.github/icons/nestjs.svg" width="60"/>
 		</td>
+		<td >
+			<img src="/.github/icons/postgresql.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/mongodb.svg" width="60"/>
+		</td>
 		<td>
 			<img src="/.github/icons/materialui.svg" width="60"/>
 		</td>
@@ -68,22 +74,16 @@
 			<img src="/.github/icons/socketio.svg" width="60"/>
 		</td>
 		<td >
-			<img src="/.github/icons/postgresql.svg" width="60"/>
-		</td>
-		<td >
 			<img src="/.github/icons/s3.svg" width="60"/>
-		</td>
-		<td >
-			<img src="/.github/icons/mongodb.svg" width="60"/>
 		</td>
 	</tr>
 	<tr align="center">
 		<td>Nest.js</td>
+		<td>postgreSQL</td>
+		<td>MongoDB</td>
 		<td>Material-UI</td>
 		<td>Socket.IO</td>
-		<td>postgreSQL</td>
 		<td>AWS S3</td>
-		<td>MongoDB</td>
 	</tr>
 </table>
 <table >
