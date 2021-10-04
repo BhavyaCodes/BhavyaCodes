@@ -17,10 +17,10 @@
 
 # <h1><a href="https://bhavya.dev">bhavya.dev</a> - Visit my portfolio</h1>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavyaCodes&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-
-![Bhavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhavyaCodes&show_icons=true&theme=radical&layout=compact)
-
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavyaCodes&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" height=160 />
+<img src="https://github-readme-stats.vercel.app/api?username=BhavyaCodes&show_icons=true&theme=radical&layout=compact" alt="Bhavya's Github Stats" height=160 />
+<p>
 ---
 
 ## Technologies I have used
